@@ -34,7 +34,9 @@ class YoudaoTranslator(CommonTranslator):
         'ESP': 'es',
         'TRK': 'tr',
         'THA': 'th',
-        'IND': 'id'
+        'IND': 'id',
+        'SWE': 'sv',
+        'TRK': 'tr'
     }
     _API_URL = 'https://openapi.youdao.com/api'
 

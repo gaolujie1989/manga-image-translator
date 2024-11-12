@@ -35,7 +35,9 @@ class BaiduTranslator(CommonTranslator):
         'ESP': 'spa',
         'SRP': 'srp',
         'HRV': 'hrv',
-        'THA': 'th'
+        'THA': 'th',
+        'SWE': 'swe',
+        'TRK': 'tr'
     }
     _INVALID_REPEAT_COUNT = 1
 
